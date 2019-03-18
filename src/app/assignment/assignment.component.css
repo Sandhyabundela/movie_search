@@ -1,0 +1,40 @@
+#design{
+    padding-top: 30px;
+}
+
+#design1{
+    text-align: center;
+    font-size: 130%;
+    color: darkblue;
+}
+#design2{
+    text-align: center;
+    font-size: 130%;
+    color: darkblue;
+}
+
+#d1{
+    margin-left: 70px;
+    margin-top: 50px;
+    height: 300px;
+    width: 200px;
+    border: 4px solid greenyellow ;
+    border-radius: 5%;
+    
+}
+#d2{
+    text-align: center;
+    color: darkblue;
+}
+
+#d3{
+    text-align: center;
+    color: darkblue;
+}
+
+#not-found{
+
+    text-align: center;
+    margin-top: 50px;
+    color: crimson;
+}
